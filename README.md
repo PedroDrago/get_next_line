@@ -4,4 +4,4 @@
     <img src="./printscreen.png"/>
 </p>
 
-<p align="center">This project is about reading from a file descriptor and returning always the next line, using read function and a static variable.</p>
+<p align="center">This project is about reading from a file descriptor and returning always the next line, using the read function and a static variable.</p>
