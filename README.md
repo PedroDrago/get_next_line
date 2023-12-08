@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">This project is about reading from a file descriptor and returning always the next line, using the read function and a static variable.</p>
----
 
+---
 ### File descriptor
 File descriptors are unique identifiers for files so that a process can interact with them. Each process has an individual file descriptor table, so a single file will probably have different file descriptors for different processes. With the file descriptor, we can perform actions like read and write on the file that corresponds to the file descriptor.
 
